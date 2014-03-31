@@ -1,6 +1,6 @@
 language: python
 python:
- - 2.7
+ - 2.6
 install: echo "Nothing to install at all"
 before_script: echo $VIRTUALENV_PYTHON
 script:
